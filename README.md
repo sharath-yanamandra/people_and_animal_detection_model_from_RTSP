@@ -1,0 +1,1 @@
+# people_and_animal_detection_model_from_RTSP
