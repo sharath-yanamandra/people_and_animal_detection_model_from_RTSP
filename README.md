@@ -1,4 +1,4 @@
-# people_and_animal_detection_model_from_RTSP
+# People_and_animal_detection_model_from_RTSP live stream if provided with a URL:
 # Person and Animal Detection using YOLOv8
 
 ## Overview
