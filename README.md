@@ -81,3 +81,4 @@ The script will display a window with:
 - Counters showing the number of detected persons and animals
 - Current timestamp in the bottom of the frame
 - If specified, a video file will be saved with all detections
+  Please try and if you have any questions reach out to me at sharathchandra172@gmail.com
